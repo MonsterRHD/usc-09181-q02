@@ -1,6 +1,7 @@
 [project]
-name = "09181-q002
+name = "quote-router"
 version = "0.1.0"
+description = "在岸/离岸人民币报价路由器：多机构报价接入、可解释路由、幂等意图、冻结补处理、重启不丢已锁价格"
 requires-python = ">=3.11"
 
 [project.scripts]
